@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'bundler/setup'
+require 'rake'
+
+load 'lib/tasks/compile.rake'
+Rake::Task['compile'].invoke
+
+require 'libphonenumber'
+
+require 'irb'
+IRB.start(__FILE__)

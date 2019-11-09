@@ -1,0 +1,13 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+*.gem
+lib/libphonenumber/libphonenumber.so
+lib/libphonenumber/libphonenumber.h
+Makefile
