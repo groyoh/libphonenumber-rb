@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-This gem is an experiment to use Go libraries in Ruby via C-extensions.
+This gem is an experiment to use [Go libphonenumber](https://github.com/ttacon/libphonenumber) library in Ruby via C-extensions.
 
 It will compile the go file in `ext/libphonenumber/` into a standard shared
 object binary file (.so) exposing Go functions as C-style APIs. The gem will
