@@ -1,6 +1,6 @@
 # Libphonenumber
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)[![Build Status](https://travis-ci.org/groyoh/libphonenumber-rb.svg?branch=master)](https://travis-ci.org/groyoh/libphonenumber-rb)[![Coverage Status](https://coveralls.io/repos/github/groyoh/libphonenumber-rb/badge.svg?branch=master)](https://coveralls.io/github/groyoh/libphonenumber-rb?branch=master)
 
 This gem is an experiment to use [Go libphonenumber](https://github.com/ttacon/libphonenumber) library in Ruby via C-extensions.
 
